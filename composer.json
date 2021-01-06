@@ -1,0 +1,15 @@
+{
+    "name": "icy8/thinkphp5-cli",
+    "authors": [
+        {
+            "name": "icy8",
+            "email": "672636920@qq.com"
+        }
+    ],
+    "require": {
+        "topthink/framework": "5.0.*"
+    },
+    "psr-4": {
+        "Think5Cli\\": "src/"
+    }
+}
