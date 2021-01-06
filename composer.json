@@ -9,7 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
+    "require-dev": {
         "topthink/framework": "5.0.*"
     },
     "autoload": {
