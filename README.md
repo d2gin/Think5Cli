@@ -8,6 +8,12 @@ thinkphp5命令行模式工具类，系统规定的命令配置太繁琐了，�
 
 `php think test a`
 
+### 安装
+
+```
+composer require icy8/thinkphp5-cli
+```
+
 ### 用例
 
 ```php
