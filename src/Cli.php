@@ -13,7 +13,7 @@ use think\Loader;
 
 class Cli extends Command
 {
-    use \app\common\traits\Cli;
+    use \Think5Cli\traits\Cli;
     protected $cli_name    = '';
     protected $lock_dir    = './data/lock/';
     protected $lock_prefix = 'lock_';
