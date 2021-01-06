@@ -8,7 +8,7 @@
             "email": "672636920@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
     },
     "autoload": {
