@@ -1,11 +1,14 @@
 {
     "name": "icy8/thinkphp5-cli",
+    "type": "library",
+    "license": "mit",
     "authors": [
         {
             "name": "icy8",
             "email": "672636920@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "topthink/framework": "5.0.*"
     }
