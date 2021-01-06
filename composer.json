@@ -9,8 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require-dev": {
-        "topthink/framework": "5.0.*"
+    "require": {
     },
     "autoload": {
         "psr-4": {
