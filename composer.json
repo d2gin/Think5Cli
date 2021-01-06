@@ -8,8 +8,5 @@
     ],
     "require": {
         "topthink/framework": "5.0.*"
-    },
-    "psr-4": {
-        "Think5Cli\\": "src/"
     }
 }

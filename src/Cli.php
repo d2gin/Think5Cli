@@ -1,4 +1,5 @@
 <?php
+
 namespace Think5Cli;
 
 use think\App;
